@@ -18,7 +18,7 @@ for (int i = 0; i < n-1; i++)
     {
         if(array[i]+array[j]==jogfol)
         {
-            printf("%d %d\n", array[i],array[j]);
+            printf("%d+%d =%d\n", array[i],array[j], jogfol);
         }
 
         
